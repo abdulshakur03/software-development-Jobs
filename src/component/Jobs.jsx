@@ -1,24 +1,13 @@
 import items from "../assets/data.json";
+import JobListing from "./JobListing";
 export default function Jobs() {
   return (
-    <div>
-      <h2>Recent Jobs</h2>
+    <div className="bg-blue-100 ">
+      <h2 className="text-center text-2xl pt-5 pb-8 font-bold">Recent Jobs</h2>
 
-      <div>
+      <div className="grid grid-cols-3 grid-row-auto gap-20   p-7">
         {items.map((item) => (
-          <div className="" key={item.id}>
-            <div className="card">
-              <p>{item.type}</p>
-              <h3>{item.title}</h3>
-              <p>{item.description}</p>
-              <p>{item.salary}</p>{" "}
-            </div>
-            <hr />
-            <div className="card-footer">
-              <p>{item.location}</p>
-              <button className="read-more">Read More</button>
-            </div>
-          </div>
+          <JobListing item={item} key={item.id} />
         ))}
       </div>
     </div>
