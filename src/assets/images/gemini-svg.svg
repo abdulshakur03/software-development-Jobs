@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <rect width="500" height="500" fill="#ffffff"/>
+  <g fill="#333333">
+    <!-- Left Bracket -->
+    <path d="M 190 195 L 125 235 L 190 275 L 190 290 L 125 251.5 L 125 218.5 L 190 180 Z M 138 235 L 178 211.5 L 178 223 L 150 235 L 178 247 L 178 258.5 Z"/>
+    
+    <!-- Forward Slash -->
+    <path d="M 271 180 L 302 180 L 229 305 L 198 305 Z M 261 188 L 288 188 L 227 297 L 200 297 Z" fill-rule="evenodd"/>
+    
+    <!-- Right Bracket -->
+    <path d="M 310 195 L 375 235 L 310 275 L 310 290 L 375 251.5 L 375 218.5 L 310 180 Z M 362 235 L 322 211.5 L 322 223 L 350 235 L 322 247 L 322 258.5 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "j1",
+    "title": "Frontend Engineer (React & Redux)",
+    "category": "Engineering",
+    "type": "Full-Time",
+    "location": "Miami, FL",
+    "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+    "salary": "$70K - $80K",
+    "isRemote": true,
+    "company": {
+      "name": "Veneer Solutions",
+      "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+      "contactEmail": "contact@loremipsum.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": "j2",
+    "title": "Backend Developer (Node.js & Express)",
+    "category": "Engineering",
+    "type": "Full-Time",
+    "location": "Austin, TX",
+    "description": "We are seeking a Backend Developer to build scalable RESTful APIs and optimize microservices. You will collaborate with frontend developers to integrate end-to-end user-facing elements with server-side logic.",
+    "salary": "$90K - $110K",
+    "isRemote": false,
+    "company": {
+      "name": "Apex Cloud Systems",
+      "description": "Apex Cloud Systems provides high-performance infrastructure solutions for scaling tech enterprise businesses.",
+      "contactEmail": "careers@apexcloud.io",
+      "contactPhone": "555-102-3948"
+    }
+  },
+  {
+    "id": "j3",
+    "title": "Senior Go Engineer",
+    "category": "Engineering",
+    "type": "Full-Time",
+    "location": "San Francisco, CA",
+    "description": "Looking for a seasoned Go developer to architect concurrent systems, manage data pipelines, and improve service latency. Deep knowledge of memory optimization and Docker/Kubernetes containerization is required.",
+    "salary": "$130K - $150K",
+    "isRemote": true,
+    "company": {
+      "name": "Nexus Infrastructure",
+      "description": "Nexus Infrastructure builds low-latency developer tools and automated container orchestration platforms.",
+      "contactEmail": "jobs@nexusinfra.com",
+      "contactPhone": "555-839-2011"
+    }
+  },
+  {
+    "id": "j4",
+    "title": "Full Stack Developer (Next.js & Python)",
+    "category": "Engineering",
+    "type": "Full-Time",
+    "location": "New York, NY",
+    "description": "Work across our entire modern web stack. You will craft responsive client-side experiences in Next.js while building robust data ingestion APIs using Python and PostgreSQL.",
+    "salary": "$100K - $120K",
+    "isRemote": true,
+    "company": {
+      "name": "Pulse Digital",
+      "description": "Pulse Digital crafts real-time analytics platforms for digital publishing media networks.",
+      "contactEmail": "hr@pulsedigital.tech",
+      "contactPhone": "555-472-9103"
+    }
+  },
+  {
+    "id": "j5",
+    "title": "UI/UX Product Designer",
+    "category": "Design",
+    "type": "Full-Time",
+    "location": "Seattle, WA",
+    "description": "Shape user interactions across web and mobile interfaces. Create wireframes, interactive prototypes, and design systems in Figma while maintaining brand consistency across all touchpoints.",
+    "salary": "$85K - $95K",
+    "isRemote": true,
+    "company": {
+      "name": "Aura Interactive",
+      "description": "Aura Interactive is a user-experience consultancy focused on accessible web applications and design systems.",
+      "contactEmail": "design@aurainteractive.com",
+      "contactPhone": "555-618-4920"
+    }
+  },
+  {
+    "id": "j6",
+    "title": "DevOps & Systems Security Specialist",
+    "category": "Cybersecurity",
+    "type": "Full-Time",
+    "location": "Chicago, IL",
+    "description": "Maintain automated CI/CD pipelines, secure Linux kernel environments, and implement strict threat modeling protocols. Experience with network auditing and vulnerability assessments is a plus.",
+    "salary": "$115K - $135K",
+    "isRemote": false,
+    "company": {
+      "name": "Ironclad Cyber",
+      "description": "Ironclad Cyber offers enterprise-grade threat monitoring and hardened security infrastructure solutions.",
+      "contactEmail": "security@ironcladcyber.net",
+      "contactPhone": "555-904-1182"
+    }
+  },
+  {
+    "id": "j7",
+    "title": "Data Engineer (Python & SQL)",
+    "category": "Data & Analytics",
+    "type": "Full-Time",
+    "location": "Denver, CO",
+    "description": "Design and maintain automated ETL data pipelines. Transform raw telemetry and application logs into actionable relational database models for cross-functional reporting.",
+    "salary": "$95K - $110K",
+    "isRemote": true,
+    "company": {
+      "name": "Strata Data Labs",
+      "description": "Strata Data Labs delivers automated business intelligence and predictive modeling suites for fast-growing startups.",
+      "contactEmail": "recruiting@stratadatalabs.com",
+      "contactPhone": "555-231-7740"
+    }
+  },
+  {
+    "id": "j8",
+    "title": "Mobile Developer (Flutter / React Native)",
+    "category": "Engineering",
+    "type": "Contract",
+    "location": "Boston, MA",
+    "description": "Join a 6-month contract engagement building a cross-platform financial application. Focus on smooth UI animations, offline data caching, and secure API integrations.",
+    "salary": "$60 - $75 / hr",
+    "isRemote": true,
+    "company": {
+      "name": "Vanguard App Studio",
+      "description": "Vanguard App Studio creates high-performance cross-platform mobile apps for fintech and retail clients.",
+      "contactEmail": "contracts@vanguardapps.io",
+      "contactPhone": "555-782-3091"
+    }
+  },
+  {
+    "id": "j9",
+    "title": "Product Marketing Manager",
+    "category": "Marketing",
+    "type": "Full-Time",
+    "location": "Atlanta, GA",
+    "description": "Lead positioning, go-to-market strategies, and content creation for our SaaS product line. Collaborate with product managers and sales engineers to drive acquisition and retain active users.",
+    "salary": "$80K - $95K",
+    "isRemote": false,
+    "company": {
+      "name": "Elevate SaaS",
+      "description": "Elevate SaaS creates productivity and workflow management tools designed for distributed operational teams.",
+      "contactEmail": "hello@elevatesaas.org",
+      "contactPhone": "555-349-6012"
+    }
+  },
+  {
+    "id": "j10",
+    "title": "Technical Writer & Community Lead",
+    "category": "Operations",
+    "type": "Part-Time",
+    "location": "Remote",
+    "description": "Author clean API documentation, developer guides, and release notes. Manage our developer community forums and act as the bridge between open-source users and core engineers.",
+    "salary": "$35 - $45 / hr",
+    "isRemote": true,
+    "company": {
+      "name": "OpenSource Collective",
+      "description": "OpenSource Collective empowers open-source maintainers by providing funding tools and documentation support.",
+      "contactEmail": "support@opensourcecoll.org",
+      "contactPhone": "555-891-5234"
+    }
+  }
+]
