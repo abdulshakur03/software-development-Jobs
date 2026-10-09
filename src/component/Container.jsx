@@ -3,7 +3,7 @@ import Main from "./Main";
 
 export default function Container() {
   return (
-    <div>
+    <div >
       <Nav />
       <Main />
     </div>
