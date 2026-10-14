@@ -1,8 +1,9 @@
+// import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 export default function Nav() {
   return (
     <>
-      <div className="flex justify-between py-5 px-7">
-        <div className="flex gap-3">
+      <div className="flex justify-between items-center py-5 px-7">
+        <div className="flex gap-3 items-center">
           <div className="image-logo-container">
             <img
               src="src/assets/images/coding.jpeg"
@@ -13,11 +14,11 @@ export default function Nav() {
           <p className="text-logo-container">Programming Jobs</p>
         </div>
 
-        <div className="flex  gap-5 cursor-pointer">
-          <p>Home</p>
-          <p>Jobs</p>
-          <p>Add Job</p>
-        </div>
+        <nav className="flex  gap-5 cursor-pointer items-center">
+          <button to="/">Home</button>
+          <button>Jobs</button>
+          <button>Add Job</button>
+        </nav>
       </div>
       <hr />
     </>

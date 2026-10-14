@@ -14,7 +14,7 @@ export default function JobListing({ item }) {
           className="text-blue-700 cursor-pointer"
           onClick={() => setIsExpanded((prev) => !prev)}
         >
-          More
+          {isExpanded ? "Less" : "More"}
         </p>
         <p className="text-blue-700 mb-5">{item.salary}</p>{" "}
       </div>
