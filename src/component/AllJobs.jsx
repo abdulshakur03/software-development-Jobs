@@ -1,9 +1,10 @@
-import React from "react";
 import items from "../assets/data.json";
 import JobListing from "./JobListing";
+import Nav from "./Nav";
 export default function AllJobs() {
   return (
     <div className="bg-blue-100">
+      <Nav />
       <h2 className="text-center text-2xl pt-5 pb-8 font-bold text-blue-700">
         Recent Jobs
       </h2>
