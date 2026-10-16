@@ -8,6 +8,7 @@ export default function Main() {
           Find the Programming job that fits your skill set
         </p>
       </div>
+      <FilterBar />
       <Jobs />
     </div>
   );
